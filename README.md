@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/aakki16/blnkoo/"> <img align='center' height="40" src="https://img.shields.io/badge/Blnkoo-v1-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" alt="blnkstrap"> </a> </p>
 
-<h1 align="center"> <strong>Welcome to Blnkoo 2024! 🎉</strong> </h1> <p align="center"> The go-to framework for web designers & developers to build their first website easily with <code>Blnkstrap</code> 🌱. </p> <p align="center"> <a href="https://github.com/akkii15/blnkstrap/issues/new?assignees=&labels=bug&template=BUG_REPORT.md&title=bug%3A+">Report a Bug</a> · <a href="https://github.com/aakki16/Blnkoo/issues/new?assignees=&labels=enhancement&template=FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a> · <a href="https://github.com/aakki16/Blnkoo/discussions">Ask a Question</a> </p>
+<h1 align="center"> <strong>Welcome to Blnkstrap 2024! 🎉</strong> </h1> <p align="center"> The go-to framework for web designers & developers to build their first website easily with <code>Blnkstrap</code> 🌱. </p> <p align="center"> <a href="https://github.com/akkii15/blnkstrap/issues/new?assignees=&labels=bug&template=BUG_REPORT.md&title=bug%3A+">Report a Bug</a> · <a href="https://github.com/aakki16/Blnkoo/issues/new?assignees=&labels=enhancement&template=FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a> · <a href="https://github.com/aakki16/Blnkoo/discussions">Ask a Question</a> </p>
 <h2 align="center"> <a href="https://github.com/akkii15/blnkstrap"> <img src="./logo.svg" alt="Blnkstrap Logo" width="300" height="200"> </a> </h2> <div align="center"> <br /> <a href="https://blnkoo.vercel.app"> <img src="https://img.shields.io/badge/View Documentation-green?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Documentation"> </a> </div>
 
 🚀 What is Blnkstrap?
@@ -15,12 +15,12 @@ Blnkstrap is a sleek, intuitive, and powerful front-end framework designed to st
 Get started in just a few steps:
 
 - [Download the lastest release](Download the latest release)
-- Clone the repo: ```git clone https://github.com/aakki16/blnkoo.git```
-- Install with Composer: ```composer require aakki16/blnkoo```
+- Clone the repo: ```git clone https://github.com/aakki16/blnkstrap.git```
+- Install with Composer: ```composer require aakki16/blnkstrap```
 - Read the [Getting started]() page for information on the framework contents, templates, examples, and more.
 - Kindle give a star ⭐.
 
-🔥 Why Choose Blnkoo?
+🔥 Why Choose Blnkstrap?
 
 ✅ Open Source <br/>
 🚀 Modern & Fast <br/>
@@ -31,7 +31,7 @@ Check out our open issues for a full list of features and known bugs. <br/>
 
 📖 Usage
 
-Blnkoo is designed for flexibility. You can use it to create a variety of web projects, from personal blogs to professional portfolios. <br/>
+Blnkstrap is designed for flexibility. You can use it to create a variety of web projects, from personal blogs to professional portfolios. <br/>
 Check out the Documentation for code examples, demos, and best practices.
 
 💻 Contributing Guidelines
