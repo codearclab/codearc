@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" alt="logo" width="400" height="200" />
+  <img src="cover.png" alt="logo" width="80%" height="250" />
   <h1>Welcome to Codearc ⭐</h1>
   <p>
     The go-to framework for web designers & developers to build their first website easily with Codearc 🌱.
