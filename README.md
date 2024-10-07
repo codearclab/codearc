@@ -1,64 +1,299 @@
-<a id="readme-top"></a>
+<div align="center">
+  <img src="logo.svg" alt="logo" width="200" height="auto" />
+  <h1>A</h1>
+  
+  <p>
+    An awesome README template for your projects! 
+  </p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+  </h4>
+</div>
 
-<p align="center"> <a href="https://github.com/aakki16/blnkoo/"> <img align='center' height="40" src="https://img.shields.io/badge/Blnkoo-v1-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" alt="blnkstrap"> </a> </p>
+<br />
 
-<h1 align="center"> <strong>Welcome to Blnkstrap 2024! 🎉</strong> </h1> <p align="center"> The go-to framework for web designers & developers to build their first website easily with <code>Blnkstrap</code> 🌱. </p> <p align="center"> <a href="https://github.com/akkii15/blnkstrap/issues/new?assignees=&labels=bug&template=BUG_REPORT.md&title=bug%3A+">Report a Bug</a> · <a href="https://github.com/aakki16/Blnkoo/issues/new?assignees=&labels=enhancement&template=FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a> · <a href="https://github.com/aakki16/Blnkoo/discussions">Ask a Question</a> </p>
-<h2 align="center"> <a href="https://github.com/akkii15/blnkstrap"> <img src="./logo.svg" alt="Blnkstrap Logo" width="300" height="200"> </a> </h2> <div align="center"> <br /> <a href="https://blnkoo.vercel.app"> <img src="https://img.shields.io/badge/View Documentation-green?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Documentation"> </a> </div>
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-🚀 What is Blnkstrap?
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  * [Color Reference](#art-color-reference)
+  * [Environment Variables](#key-environment-variables)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Running Tests](#test_tube-running-tests)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Usage](#eyes-usage)
+- [Roadmap](#compass-roadmap)
+- [Contributing](#wave-contributing)
+  * [Code of Conduct](#scroll-code-of-conduct)
+- [FAQ](#grey_question-faq)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
-Blnkstrap is a sleek, intuitive, and powerful front-end framework designed to streamline web development. Whether you're building your first website or enhancing your design skills, blnkstrap simplifies your workflow with modern tools. It’s free and open-source, crafted with love by the Akki Team. 🌍
+  
 
-<div align="center"> <a href="https://github.com/akkii15/blnkstrap/stargazers"> <img src="https://img.shields.io/github/stars/akkii15/blnkstrap?style=social" alt="GitHub stars"> </a> <a href="https://github.com/aakki16/Blnkoo/network/members"> <img src="https://img.shields.io/github/forks/akkii15/blnkstrap?style=social" alt="GitHub forks"> </a> <a href="https://github.com/akkii15/Blnkstrap/issues"> <img src="https://img.shields.io/github/issues/akkii15/blnkstrap?style=social" alt="GitHub issues"> </a> </div> <br />
-🎉 Quick Start
+<!-- About the Project -->
+## :star2: About the Project
 
-Get started in just a few steps:
 
-- [Download the lastest release](Download the latest release)
-- Clone the repo: ```git clone https://github.com/aakki16/blnkstrap.git```
-- Install with Composer: ```composer require aakki16/blnkstrap```
-- Read the [Getting started]() page for information on the framework contents, templates, examples, and more.
-- Kindle give a star ⭐.
+<!-- Screenshots -->
+### :camera: Screenshots
 
-🔥 Why Choose Blnkstrap?
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+</div>
 
-✅ Open Source <br/>
-🚀 Modern & Fast <br/>
-🌍 Responsive & Accessible <br/>
-🎨 Highly Customizable <br/>
-🔧 Nested Features for Complex Projects <br/>
-Check out our open issues for a full list of features and known bugs. <br/>
 
-📖 Usage
+<!-- TechStack -->
+### :space_invader: Tech Stack
 
-Blnkstrap is designed for flexibility. You can use it to create a variety of web projects, from personal blogs to professional portfolios. <br/>
-Check out the Documentation for code examples, demos, and best practices.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
 
-💻 Contributing Guidelines
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://go.dev/">Golang</a></li>
+    <li><a href="https://nestjs.com/">Nest.js</a></li>
+    <li><a href="https://socket.io/">SocketIO</a></li>
+    <li><a href="https://www.prisma.io/">Prisma</a></li>    
+    <li><a href="https://www.apollographql.com/">Apollo</a></li>
+    <li><a href="https://graphql.org/">GraphQL</a></li>
+  </ul>
+</details>
 
-We welcome contributions from everyone! 🎉 Please see the Contributing Guidelines for more information on how to help [Contributing Guideline](./.github/CONTRIBUTING.md).
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://redis.io/">Redis</a></li>
+    <li><a href="https://neo4j.com/">Neo4j</a></li>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  </ul>
+</details>
 
-<div align="center"> <a href="https://github.com/aakki16/Blnkoo/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"> <img src="https://img.shields.io/badge/PRs-Welcome-pink?style=for-the-badge" alt="PRs Welcome"> </a> </div>
-🤔 Need Help?
+<details>
+<summary>DevOps</summary>
+  <ul>
+    <li><a href="https://www.docker.com/">Docker</a></li>
+    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
+    <li><a href="https://circleci.com/">CircleCLI</a></li>
+  </ul>
+</details>
 
-Feel free to ask any questions in our Q&A Discussions.
+<!-- Features -->
+### :dart: Features
 
-📜 License
+- Feature 1
+- Feature 2
+- Feature 3
 
-This project is licensed under the MIT license. Feel free to edit, share, and distribute this project as you see fit. See LICENSE for details.
+<!-- Color Reference -->
+### :art: Color Reference
 
-📞 Contact
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-Akki Team - @your_twitter - akkii.hck16@gmail.com
 
-<p align="right">(<a href="#rdme-top">back to top</a>)</p>
-🎉✨ Happy Coding! ✨🎉
+<!-- Env Variables -->
+### :key: Environment Variables
 
- 
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Prerequisites -->
+### :bangbang: Prerequisites
+
+This project uses Yarn as package manager
+
+```bash
+ npm install --global yarn
 ```
-     _____ _                 _     __   __          
- |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
-   | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
-   | | | | | | (_| | | | |   <    | | (_) | |_| |
-   |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+
+<!-- Installation -->
+### :gear: Installation
+
+Install my-project with npm
+
+```bash
+  yarn install my-project
+  cd my-project
 ```
+   
+<!-- Running Tests -->
+### :test_tube: Running Tests
+
+To run tests, run the following command
+
+```bash
+  yarn test test
+```
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Louis3797/awesome-readme-template.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn start
+```
+
+
+<!-- Deployment -->
+### :triangular_flag_on_post: Deployment
+
+To deploy this project run
+
+```bash
+  yarn deploy
+```
+
+
+<!-- Usage -->
+## :eyes: Usage
+
+Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+<!-- Roadmap -->
+## :compass: Roadmap
+
+* [x] Todo 1
+* [ ] Todo 2
+
+
+<!-- Contributing -->
+## :wave: Contributing
+
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
+
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+
+<!-- Code of Conduct -->
+### :scroll: Code of Conduct
+
+Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+
+<!-- FAQ -->
+## :grey_question: FAQ
+
+- Question 1
+
+  + Answer 1
+
+- Question 2
+
+  + Answer 2
+
+
+<!-- License -->
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+
+<!-- Contact -->
+## :handshake: Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+ - [Shields.io](https://shields.io/)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+ - [Readme Template](https://github.com/othneildrew/Best-README-Template)
