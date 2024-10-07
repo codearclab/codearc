@@ -269,9 +269,9 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 
   + Codearc is a sleek, intuitive, and powerful front-end framework designed to streamline web development. Whether you're building your first website or enhancing your design skills, Blnkoo simplifies your workflow with modern tools. It’s free and open-source, crafted with love by the Akki Team. 🌍
 
-- Question 2
+- Why use Codearc.
 
-  + Answer 2
+  + There are several reasons to use Codearc, an open-source framework for building websites and web projects: ```Easy to use``` ```Consistency``` ```Responsive``` ```Customizable``` ```Media Queries``` ```Open Source``` ```Free```
 
 
 <!-- License -->
