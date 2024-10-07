@@ -27,8 +27,8 @@
   </a>
 </p>
    
-<h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+<h5>
+    <a href="https://github.com/codearclab//">Download Leatest</a>
   <span> · </span>
     <a href="https://getcodearc.vercel.app">Documentation</a>
   <span> · </span>
@@ -37,7 +37,7 @@
     <a href="https://github.com/codearclab/codearclab/issues/">Request Feature</a>
   <span> · </span>
     <a href="https://github.com/codearclab/codearclab/pullrequest/">Submit Pull Request</a>
-  </h4>
+</h5>
 </div>
 
 <br />
