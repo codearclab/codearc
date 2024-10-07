@@ -50,6 +50,10 @@
 - Read the [Getting started](https://getcodearc.vercel.app) page for information on the framework contents, templates, examples, and more.
 - Kindle give a star ⭐.
 
+# 📖 Usage
+
+- Codearc is designed for flexibility. You can use it to create a variety of web projects, from personal blogs to professional portfolios.
+Check out the Documentation for code examples, demos, and best practices.
 
 # 🤔 Need Help?
 
