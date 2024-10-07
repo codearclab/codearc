@@ -1,0 +1,25 @@
+{
+  "name": "Codearc",
+  "description": "The bestvl front-end framework for developing responsive, mobile first projects on the web.",
+  "version": "1.00",
+  "config": {
+    "version_short": "5"
+  },
+  "keywords": [
+    "css",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://getcodearc.vercel.com/",
+  "author": "The Codearc Authors (https://github.com/codearclab/codearc/graphs/contributors)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codarclab/codearclab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codearclab/codearc/issues"
+  }
