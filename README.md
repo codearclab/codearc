@@ -1,42 +1,42 @@
 <div align="center">
-  <img src="logo.svg" alt="logo" width="200" height="auto" />
-  <h1>A</h1>
-  
+  <img src="logo.svg" alt="logo" width="400" height="200" />
+  <h1>Welcome to Codearc ⭐</h1>
   <p>
-    An awesome README template for your projects! 
+    The go-to framework for web designers & developers to build their first website easily with Codearc 🌱.
   </p>
-  
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/codearclab/codearc/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codearclab/codearc" alt="contributors"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/codearclab/codearc" alt="last update"/>
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/codearclab/codearclab/network/members">
+    <img src="https://img.shields.io/github/forks/codearclab/codearc" alt="forks"/>
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/codearclab/codearclab/stargazers">
+    <img src="https://img.shields.io/github/stars/codearclab/codearc" alt="stars"/>
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/codearclab/codearc/issues/">
+    <img src="https://img.shields.io/github/issues/codearclab/codearc" alt="open issues"/>
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/codearclab/codearc/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/codearc/codearc.svg" alt="license" />
   </a>
 </p>
    
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://getcodearc.vercel.app">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/codearclab/codearc/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/codearclab/codearclab/issues/">Request Feature</a>
+  <span> · </span>
+    <a href="https://github.com/codearclab/codearclab/pullrequest/">Submit Pull Request</a>
   </h4>
 </div>
 
@@ -277,7 +277,7 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 <!-- License -->
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the no License. See LICENSE for more information.
 
 
 <!-- Contact -->
