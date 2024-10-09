@@ -5,7 +5,7 @@
     The go-to framework for web designers & developers to build their first website easily with Codearc 🌱.
   </p>
 
-  <p>Power people make places powerful 🤝.</p>
+  <p>"Power people make places powerful 🤝."</p>
   
 <!-- Badges -->
 <p>
