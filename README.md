@@ -42,6 +42,8 @@
 
 <br />
 
+*** Docs comming soon ***
+
 # Get started in just a few steps:
 
 - [Download the lastest release](Download the latest release)
