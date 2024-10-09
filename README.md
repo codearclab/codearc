@@ -24,7 +24,7 @@
   <a href="https://github.com/codearclab/codearc/issues/">
     <img src="https://img.shields.io/github/issues/codearclab/codearc" alt="open issues"/>
   </a>
-  <a href="https://github.com/codearclab/codearc/blob/master/LICENSE">
+  <a href="https://github.com/codearclab/codearc/LICENSE">
     <img src="https://img.shields.io/github/license/codearc/codearc.svg" alt="license" />
   </a>
 </p>
