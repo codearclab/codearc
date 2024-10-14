@@ -74,6 +74,7 @@ We welcome contributions from everyone! 🎉 Please see the Contributing Guideli
 
 <!-- Backers -->
 ## Our Backers 🖤 
+- Thank you to all our backers! 🙏 [[Become a backer]](https://opencollective.com/codearc#backers)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
