@@ -72,6 +72,9 @@ We welcome contributions from everyone! 🎉 Please see the Contributing Guideli
   <img src="https://contrib.rocks/image?repo=codearclab/codearc" />
 </a>
 
+<!-- Backers -->
+## Our Backers 🖤 
+
 <!-- FAQ -->
 ## :grey_question: FAQ
 
