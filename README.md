@@ -72,6 +72,11 @@ We welcome contributions from everyone! 🎉 Please see the Contributing Guideli
   <img src="https://contrib.rocks/image?repo=codearclab/codearc" />
 </a>
 
+<!-- Sponsor -->
+## Sponsors
+- Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[]
+- [[Become a sponsor]](https://opencollective.com/codearc#sponsors)
+
 <!-- Backers -->
 ## Our Backers 🖤 
 - Thank you to all our backers! 🙏 [[Become a backer]](https://opencollective.com/codearc#backers)
