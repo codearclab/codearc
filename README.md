@@ -74,8 +74,7 @@ We welcome contributions from everyone! 🎉 Please see the Contributing Guideli
 
 <!-- Sponsor -->
 ## Sponsors
-- Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[]
-- [[Become a sponsor]](https://opencollective.com/codearc#sponsors)
+- Support this project by becoming a sponsor. Your logo will show up here with a link to your website [[Become a sponsor]](https://opencollective.com/codearc#sponsors)
 
 <!-- Backers -->
 ## Our Backers 🖤 
