@@ -66,7 +66,7 @@ Check out the Documentation for code examples, demos, and best practices.
 <!-- Contributing -->
 ## :wave: Contributing
 
-We welcome contributions from everyone! 🎉 Please see the Contributing Guidelines for more information on how to help [Contributing Guideline](./.github/CONTRIBUTING.md).
+We welcome contributions from everyone! 🎉 Please see the Contributing Guidelines for more information on how to help [Contributing Guideline](./CONTRIBUTING.md).
 
 <a href="https://github.com/codearclab/codearc/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codearclab/codearc" />
