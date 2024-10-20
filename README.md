@@ -6,6 +6,8 @@
   </p>
 
   <p>"Power people make places powerful 🤝."</p>
+
+  > If you complete 2 PR's we are provide a tiny swag kit everyone 🎉
   
 <!-- Badges -->
 <p>
