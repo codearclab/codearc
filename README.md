@@ -7,7 +7,7 @@
 
   <p>"Power people make places powerful 🤝."</p>
 
-  > If you complete 2 PR's we are provide a tiny swag kit for free to everyone 🎉
+  > If you give star ⭐ and complete 2 PR's we are provide a tiny swag kit for free to everyone 🎉
   
 <!-- Badges -->
 <p>
