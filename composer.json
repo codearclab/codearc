@@ -1,0 +1,25 @@
+{
+  "name": "codearclab/codearc",
+  "description": "",
+  "keywords": [
+    "css",
+    "js",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "codearc"
+  ],
+  "homepage": "https://getcodearc.vercel.app/",
+  "authors": [
+    {
+      "name": "Akki Team",
+      "email": "akkii16@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/codearclab/codearc/issues"
+  },
+  "license": "MIT"
+}
