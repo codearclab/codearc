@@ -1,21 +1,36 @@
 {
-  "name": "Codearc",
-  "description": "The codearc best HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+  "name": "codearc",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "1.0.0",
-  "homepage": "https://github.com/codearclab/codearc#readme",
+  "config": {
+    "version_short": "1"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "codearc"
+  ],
+  "homepage": "https://getcodearc.vercel.com/",
+  "author": "The Akki Team (https://github.com/codearclab/codearc/graphs/contributors)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codearclab/codearc.git"
+  },
   "bugs": {
     "url": "https://github.com/codearclab/codearc/issues"
   },
-  "author": {
-    "name": "Akki Team",
-    "url": "https://github.com/codearclab"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aakki16/codearc.git"
-  },
-  "keywords": [
-    "css, javascript, css-framework, codearc, framework, js"
-  ]
+  "funding": [
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/codearc"
+    }
+  ],
+  "main": "dist/js/codearc.js",
+  "style": "dist/css/codearc.css"
 }
