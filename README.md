@@ -51,7 +51,7 @@
 # Get started in just a few steps:
 
 - [Download the lastest release](Download the latest release)
-- Clone the repo: ```git clone https://github.com/aakki16/codearc.git```
+- Clone the repo: ```git clone https://github.com/codearclab/codearc.git```
 - Install with Composer: ```composer require codearclab/codearc```
 - Read the [Getting started](https://getcodearc.vercel.app) page for information on the framework contents, templates, examples, and more.
 - Kindle give a star ⭐.
