@@ -1,7 +1,7 @@
 # This workflow will triage pull request and aplly a label based on path
 
 
-name: "Labeler"
+name: Labeler
 on: [pull_request_target]
 
 jobs:
