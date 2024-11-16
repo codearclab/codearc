@@ -1,0 +1,19 @@
+# This workflow will triage pull request and aplly a label based on path
+
+
+name: Labeler 
+on: [pull_request_target]
+
+jobs:
+   label:
+
+
+     runs-on:  ubuntu_latest
+     permissions: 
+       contents: read
+       pull_requests: write
+    
+    steps:
+      - uses: actions/labeler@v4
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
