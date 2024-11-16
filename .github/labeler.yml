@@ -1,2 +1,2 @@
-_site: docs/*
+_site: _site/*
 dist: dist/*
