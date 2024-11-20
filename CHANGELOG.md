@@ -1,3 +1,3 @@
-# Changelog of Blnkoo
+# Changelog of Codearc
 
 ### Initial Commit ❤
