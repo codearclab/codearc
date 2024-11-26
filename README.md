@@ -50,7 +50,7 @@
 
 # Get started in just a few steps:
 
-- [Download the lastest release](Download the latest release)
+- [Download the lastest release](https://github.com/codearclab/codearc/archive/refs/tags/v1.0.0.zip)
 - Clone the repo: ```git clone https://github.com/codearclab/codearc.git```
 - Install with Composer: ```composer require codearclab/codearc```
 - Read the [Getting started](https://getcodearc.vercel.app) page for information on the framework contents, templates, examples, and more.
