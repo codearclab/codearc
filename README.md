@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/logo.png" alt="logo" width="300" height="300" />
+  <img src=".github/logo.png" alt="logo" width="100" height="100" />
   <h1>Welcome to Codearc ⭐</h1>
   <p>
     The go-to framework for web designers & developers to build their first website easily with Codearc 🌱.
