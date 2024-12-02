@@ -1,6 +1,6 @@
 <div align="center">
   <img src=".github/logo.svg" alt="logo" width="100" height="100" />
-  <h1>Welcome to Codearc ⭐</h1>
+  <h1>Codearc</h1>
   <p>
     The go-to framework for web designers & developers to build their first website easily with Codearc 🌱.
   </p>
@@ -43,10 +43,7 @@
     <a href="https://github.com/codearclab/codearclab/pullrequest/">Submit Pull Request</a>
 </h5>
 </div>
-
-<br />
-
-*** Docs comming soon ***
+<br>
 
 # Get started in just a few steps:
 
